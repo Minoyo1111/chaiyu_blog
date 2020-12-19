@@ -1,6 +1,6 @@
 class PagesController < ActionController::Base
 
-  def show
+  def index
 
   end
 end
